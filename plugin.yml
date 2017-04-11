@@ -1,0 +1,7 @@
+name: Mr_CORE
+main: xyz.mrsky.mr_core.Mr_CORE
+version: "1.0.2 beta"
+api: ["1.0.0"]
+load: POSTWORLD
+author: Mr_sky
+description: 核心插件测试版

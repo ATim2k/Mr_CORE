@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mr_CORE v1.0.2 beta">
+    <output-path>B:/nukkit/plugins</output-path>
+    <root id="archive" name="Mr_CORE v1.0.2 beta.jar">
+      <element id="module-output" name="Mr_CORE" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
